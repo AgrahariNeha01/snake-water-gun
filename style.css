@@ -10,7 +10,7 @@ body {
 }
 
 .bg-img {
-    background-color: rgba(0, 0, 0, 0.55); 
+    background-color: rgba(0, 0, 0, 0.63); 
     padding: 20px;
 }
 
@@ -65,5 +65,5 @@ h1 {
     font-size: 50px;
     font-weight:bold;
     /* font-style: italic; */
-    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.55);
 }
